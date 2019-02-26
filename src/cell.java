@@ -1,5 +1,5 @@
 //Sen Zhang
-//add your name in the following line!
+//Nicholas W. Weier
 
 class cell
 {
