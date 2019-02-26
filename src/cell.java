@@ -6,8 +6,8 @@ class cell
   int tox;
   int toy;
   
-  public cell()
+  public cell(int type)
   {
-  
+    this.type=type;
   }
 }
