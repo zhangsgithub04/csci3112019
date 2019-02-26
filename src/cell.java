@@ -1,5 +1,6 @@
 //Sen Zhang
 //add your name in the following line!
+Zack Maguffin
 
 class cell
 {
