@@ -2,6 +2,8 @@
 //add your name in the following line!
 //Alexa Amalbert
 
+// Nick Pascucci
+
 class cell
 {
   int type;
