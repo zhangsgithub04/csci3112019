@@ -1,3 +1,6 @@
+//Sen Zhang
+//add your name in the following line!
+
 class cell
 {
   int type;
