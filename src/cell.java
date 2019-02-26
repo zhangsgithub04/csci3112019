@@ -1,5 +1,5 @@
 //Sen Zhang
-//Nicholas Weier
+//Nicholas W. Weier
 
 class cell
 {
