@@ -1,4 +1,4 @@
-//Alex Rakowsky
+//Alex Rakowsky 
 //add your name in the following line!
 
 class cell
