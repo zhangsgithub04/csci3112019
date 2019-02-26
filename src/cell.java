@@ -1,5 +1,5 @@
 //Sen Zhang
-//add your name in the following line!
+//Sean Cona
 
 class cell
 {
