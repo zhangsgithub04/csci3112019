@@ -1,6 +1,6 @@
 //Sen Zhang
 //add your name in the following line!
-
+//Amanda Coffey
 class cell
 {
   int type;
