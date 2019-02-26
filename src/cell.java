@@ -1,6 +1,6 @@
 //Sen Zhang
 //add your name in the following line!
-
+// Joe Fortunto
 class cell
 {
   int type;
